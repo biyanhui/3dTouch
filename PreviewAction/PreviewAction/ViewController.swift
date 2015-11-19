@@ -30,11 +30,11 @@ class ViewController: UIViewController {
     func loadData() {
         
         // 添加联系人
-        let p1 = Person(name: "Tom", phone: "189 3138 8992", introduce: "我是一个好人啊我是一个好人啊我是一个好人啊我是一个好人啊")
-        let p2 = Person(name: "Jone", phone: "189 3138 8992", introduce: "我是一好人啊我是一个好人啊")
-        let p3 = Person(name: "Mimu", phone: "189 3138 8992", introduce: "我是啊我是一个好人啊我是一个好人啊")
-        let p4 = Person(name: "NiuNiu", phone: "189 3138 8992", introduce: "我是一个好一个好人啊我是一个好人啊")
-        let p5 = Person(name: "A M N", phone: "189 3138 8992", introduce: "好人啊我是一个好人啊我是一个好人啊")
+        let p1 = Person(name: "biyanhui", phone: "186 0480 6922", introduce: "我是一个好人啊我是一个好人啊我是一个好人啊我是一个好人啊")
+        let p2 = Person(name: "HAHA", phone: "186 0480 6922", introduce: "我是一好人啊我是一个好人啊")
+        let p3 = Person(name: "Gary", phone: "186 0480 6922", introduce: "我是啊我是一个好人啊我是一个好人啊")
+        let p4 = Person(name: "Tom", phone: "186 0480 6922", introduce: "我是一个好一个好人啊我是一个好人啊")
+        let p5 = Person(name: "Jerry", phone: "186 0480 6922", introduce: "好人啊我是一个好人啊我是一个好人啊")
         allDataArray.append(p1)
         allDataArray.append(p2)
         allDataArray.append(p3)
